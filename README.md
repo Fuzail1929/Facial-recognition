@@ -8,3 +8,5 @@ Verification: In this the system compares the given individual to that the indiv
 Identification: This is where the system compares the given individual to all the other individuals in the database and recognizes that person.
 
 In this project we implement the Identification system using Machine Learning concepts such as Principal Component Analysis (PCA) and KNN.
+
+Get the dataset here - http://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html
